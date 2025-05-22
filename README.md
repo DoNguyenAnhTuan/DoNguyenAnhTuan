@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Nhat Tran
+### 👋 Hi there, I'm Tuan Do
 
 ✨ Working on research platforms for **autonomous vehicles** and **drones**.  
 📫 Research interests include perception, control, and planning.  
