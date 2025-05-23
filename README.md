@@ -8,8 +8,8 @@
 ### 📬 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/NhatTran-97)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@NhatTran-b8g)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/DoNguyenAnhTuan)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)]((https://www.youtube.com/@onguyenanhtuan343))
 
 ![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![micro-ROS](https://img.shields.io/badge/micro--ROS-00BFFF?style=for-the-badge&logo=robot-framework&logoColor=white)
