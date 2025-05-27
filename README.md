@@ -7,7 +7,7 @@
 
 ### 📬 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#t)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/DoNguyenAnhTuan)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)]((https://www.youtube.com/@onguyenanhtuan343))
 
