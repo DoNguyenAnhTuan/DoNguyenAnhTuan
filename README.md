@@ -28,7 +28,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4466?style=for-the-badge)
 
-
 <table>
   <tr>
     <td align="center" width="50%">
