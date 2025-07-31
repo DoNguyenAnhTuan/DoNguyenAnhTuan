@@ -2,7 +2,7 @@
 🎓 I'm a Master of Science in Information Technology from Lạc Hồng University, Vietnam.
 💡 My research focuses on Machine Learning, Computer Vision, and their applications in autonomous vehicles and STEM education.
 📦 I have practical experience in object detection, data mining, fuzzy logic, image processing, and optimisation algorithms.
-🌱 I'm passionate about developing intelligent systems and sharing knowledge with young tech enthusiasts at FabLab EIU in Bình Dương 🇻🇳.
+🌱 I'm passionate about developing intelligent systems and sharing knowledge with young tech enthusiasts at FabLab EIU in Ho Chi Minh City, Viet Nam.
 
 🔬 My Technical Focus
 🤖 Object Detection & Human Body Tracking
