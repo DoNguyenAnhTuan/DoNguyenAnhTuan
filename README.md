@@ -1,18 +1,18 @@
-### 👋 Hi there, I'm Tuan Do
-🎓 I'm a Master of Science in Information Technology from Lạc Hồng University, Vietnam.<br>
-💡 My research focuses on Machine Learning, Computer Vision, and their applications in autonomous vehicles and STEM education.<br>
-📦 I have practical experience in object detection, data mining, fuzzy logic, image processing, and optimisation algorithms.<br>
-🌱 I'm passionate about developing intelligent systems and sharing knowledge with young tech enthusiasts at FabLab EIU in Ho Chi Minh City, Viet Nam.<br>
+### Hi there, I'm Tuan Do
+- I'm a Master of Science in Information Technology from Lạc Hồng University, Vietnam.<br>
+- My research focuses on Machine Learning, Computer Vision, and their applications in autonomous vehicles and STEM education.<br>
+- I have practical experience in object detection, data mining, fuzzy logic, image processing, and optimisation algorithms.<br>
+- I'm passionate about developing intelligent systems and sharing knowledge with young tech enthusiasts at FabLab EIU in Ho Chi Minh City, Viet Nam.<br>
 
-🔬 My Technical Focus<br>
-🤖 Object Detection & Human Body Tracking<br>
-🧠 Machine Learning & Fuzzy Logic<br>
-🖼️ Image Processing & Computer Vision<br>
-📊 Data Mining & Big Data Analysis<br>
-📈 Graph Theory & Optimization<br>
-👨‍🏫 AI Education and STEM Training<br>
+My Technical Focus<br>
+- Object Detection & Human Body Tracking<br>
+- Machine Learning & Fuzzy Logic<br>
+- Image Processing & Computer Vision<br>
+- Data Mining & Big Data Analysis<br>
+- Graph Theory & Optimization<br>
+- AI Education and STEM Training<br>
 
-### 📬 How to reach me:<br>
+### How to reach me:<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#t)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/DoNguyenAnhTuan)
