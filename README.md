@@ -30,10 +30,16 @@ My Technical Focus<br>
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoNguyenAnhTuan&layout=compact&langs_count=8&theme=default" width="100%" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoNguyenAnhTuan&layout=compact&theme=tokyonight" 
+        width="100%" 
+      />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DoNguyenAnhTuan&show_icons=true&theme=default&count_private=true" width="90%"/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=DoNguyenAnhTuan&show_icons=true&theme=tokyonight" 
+        width="100%" 
+      />
     </td>
   </tr>
 </table>
